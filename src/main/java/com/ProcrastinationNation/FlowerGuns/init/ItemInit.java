@@ -1,10 +1,8 @@
 package com.ProcrastinationNation.FlowerGuns.init;
 
-import com.ProcrastinationNation.FlowerGuns.objects.items.SpecialItem;
 import com.ProcrastinationNation.FlowerGuns.FlowerGuns;
 import net.minecraft.item.Food;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.potion.EffectInstance;
 import net.minecraft.potion.Effects;
 import net.minecraftforge.event.RegistryEvent;
@@ -57,7 +55,7 @@ public class ItemInit {
 
 
         // Special Items
-        event.getRegistry().register(new SpecialItem(new Item.Properties().group(FlowerGuns.FlowerGunsItemGroup.instance)));
+
     }
 
 }

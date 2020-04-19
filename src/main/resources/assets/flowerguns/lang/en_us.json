@@ -1,0 +1,20 @@
+{
+  "item.flowerguns.empty_dye_vial": "Empty Dye Vial",
+  "item.flowerguns.white_dye_vial": "White Dye Vial",
+  "item.flowerguns.black_dye_vial": "Black Dye Vial",
+  "item.flowerguns.blue_dye_vial": "Blue Dye Vial",
+  "item.flowerguns.light_blue_dye_vial": "Light Blue Dye Vial",
+  "item.flowerguns.light_gray_dye_vial": "Light Gray Dye Vial",
+  "item.flowerguns.magenta_dye_vial": "Magenta Dye Vial",
+  "item.flowerguns.orange_dye_vial": "Orange Dye Vial",
+  "item.flowerguns.pink_dye_vial": "Pink Dye Vial",
+  "item.flowerguns.red_dye_vial": "Red Dye Vial",
+  "item.flowerguns.yellow_dye_vial": "Yellow Dye Vial",
+
+  "item.flowerguns.blue_dye_syringe": "Blue Dye Syringe",
+  "item.flowerguns.empty_syringe": "Empty Syringe",
+
+  "block.flowerguns.distillery": "Distillery",
+
+  "itemGroup.flowergunstab": "Flower Guns"
+}

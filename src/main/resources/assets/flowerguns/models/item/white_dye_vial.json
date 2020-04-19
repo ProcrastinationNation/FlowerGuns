@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "flowerguns:items/white_dye_vial"
+  }
+}

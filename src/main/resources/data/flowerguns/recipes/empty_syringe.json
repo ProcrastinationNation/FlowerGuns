@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    " G ",
+    "  i"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_nugget"
+    },
+    "G": {
+      "item": "minecraft:glass_bottle"
+    },
+    "i": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+      "item": "flowerguns:empty_syringe"
+  }
+}

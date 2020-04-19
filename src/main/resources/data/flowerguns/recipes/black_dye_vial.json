@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:black_dye"
+    },
+    {
+      "item": "flowerguns:empty_dye_vial"
+    }
+  ],
+  "result": {
+    "item": "flowerguns:black_dye_vial"
+  }
+}

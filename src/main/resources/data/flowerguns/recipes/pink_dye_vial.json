@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:pink_dye"
+    },
+    {
+      "item": "flowerguns:empty_dye_vial"
+    }
+  ],
+  "result": {
+    "item": "flowerguns:pink_dye_vial"
+  }
+}
